@@ -1,7 +1,7 @@
 baseURL = "https://micaelymendes.github.io/Micaely/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Meu Blog"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
