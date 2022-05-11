@@ -2,227 +2,227 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/awards/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/certifications/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://micaelymendes.github.io/Micaely/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://micaelymendes.github.io/Micaely/"
                 />
   </url><url>
-    <loc>https://example.com/tags/demo/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/demo/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/post/"
+                href="https://micaelymendes.github.io/Micaely/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://micaelymendes.github.io/Micaely/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/shortcode/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://micaelymendes.github.io/Micaely/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://micaelymendes.github.io/Micaely/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/notice-shortcode/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/series/"
+                href="https://micaelymendes.github.io/Micaely/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://micaelymendes.github.io/Micaely/series/"
                 />
   </url><url>
-    <loc>https://example.com/post/series-part-2/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/series-setup/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/series-part-1/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirect/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/redirect/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirecturl/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/figure-shortcode/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://micaelymendes.github.io/Micaely/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://micaelymendes.github.io/Micaely/categories/"
                 />
   </url><url>
-    <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/plot/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/r/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/r-markdown/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/regression/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/archives/"
+                href="https://micaelymendes.github.io/Micaely/ar/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/archives/"
+                href="https://micaelymendes.github.io/Micaely/archives/"
                 />
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/contact/"
+                href="https://micaelymendes.github.io/Micaely/ar/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://micaelymendes.github.io/Micaely/contact/"
                 />
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/image-test/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/thumbnail/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/about/"
+                href="https://micaelymendes.github.io/Micaely/ar/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://micaelymendes.github.io/Micaely/about/"
                 />
   </url><url>
-    <loc>https://example.com/imprint/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/index/"
+                href="https://micaelymendes.github.io/Micaely/ar/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="https://micaelymendes.github.io/Micaely/tags/index/"
                 />
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://micaelymendes.github.io/Micaely/portfolio/</loc>
   </url>
 </urlset>
